@@ -20,4 +20,4 @@ I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
   - 📍 MapKit
   - ❇️ WidgetKit
 
-##Thank you for stopping by!
+Thank you for stopping by!
