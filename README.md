@@ -5,10 +5,10 @@ I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
 ## About
 
-  - 💻 I started teaching myself iOS Development in 2020, during the pandemic
-  - ☕️ I'm a barista in the mornings and build projects/code in the evenings
-  - 🖌️ I'm a big SwiftUI fan and love learning new frameworks
-  - 🫶 BIG Google & Stack Overflow fan
+  - 💻 I started teaching myself iOS Development in 2023
+  - ☕️ I'm a customer service agent in the mornings and build projects/code in the evenings
+  - 🖌️ I'm a big Swift fan and love learning something new 
+  - 🫶 BIG leetcode & Stack Overflow fan
 
 ## What I Do
   - 🎨 Programming in Swift
