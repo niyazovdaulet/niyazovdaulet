@@ -2,6 +2,7 @@
 
 This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around.
 
+
 ##About
   - 💻 I started teaching myself iOS Development in 2020, during the pandemic
   - ☕️ I'm a barista in the mornings and build projects/code in the evenings
