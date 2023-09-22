@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daulet
 
-I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
+Aspiring self-taught iOS Developer capable of responsibly managing and completing tasks, following proper instructions and ready to help others. With experience in solo and team working on IT projects and a great foundation for further professional development.
 
 
 ## About
