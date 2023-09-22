@@ -2,7 +2,7 @@
 
 Aspiring self-taught iOS Developer capable of responsibly managing and completing tasks, following proper instructions and ready to help others. With experience in solo and team working on IT projects and a great foundation for further professional development.
 
-### 💼 **[My GitHub Portfolio]()**
+### 💼 **[My GitHub Portfolio](https://github.com/niyazovdaulet/portfolio)**
 
 
 ## About
