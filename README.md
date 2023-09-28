@@ -10,7 +10,7 @@ Aspiring self-taught iOS Developer capable of responsibly managing and completin
   - 💻 I started teaching myself iOS Development in 2023
   - ☕️ I'm a customer service agent in the mornings and build projects/code in the evenings
   - 🖌️ I'm a big Swift fan and love learning something new 
-  - 🫶 BIG leetcode & Stack Overflow fan
+  - 🫶 leetcode & Stack Overflow fan
 
 ## What I Do
   - 🎨 Programming in Swift
