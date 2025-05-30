@@ -41,7 +41,7 @@ My personal iOS development portfolio showcasing completed projects.
 
 📫 Reach me at:  
 [![Instagram](https://img.shields.io/badge/Instagram-n1ghtcr0w-%23E4405F?logo=instagram&logoColor=white)](https://instagram.com/night.crow_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daulet-niyazov-06484327a/)
 
 
 ---
