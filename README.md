@@ -23,3 +23,12 @@ Aspiring self-taught iOS Developer capable of responsibly managing and completin
   - ❇️ WidgetKit
 
 Thank you for stopping by!
+### 🛠 Tech Stack:
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+---
+
+### 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niyazovdaulet&show_icons=true&theme=radical)
