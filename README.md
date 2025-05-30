@@ -7,10 +7,11 @@ Aspiring self-taught iOS Developer capable of responsibly managing and completin
 
 ## About
 
-  - 💻 I started teaching myself iOS Development in 2023
-  - ☕️ I'm a customer service agent in the mornings and build projects/code in the evenings
-  - 🖌️ I'm a big Swift fan and love learning something new 
-  - 🫶 leetcode & Stack Overflow fan
+- 💻 Self-taught iOS developer since 2023  
+- 🧑‍💼 KYC Analyst by day, developer by night  
+- ✍️ Big fan of Swift and mobile UI/UX design  
+- 🔧 Leetcode & Stack Overflow enthusiast  
+
 
 ## What I Do
   - 🎨 Programming in Swift
@@ -22,11 +23,26 @@ Aspiring self-taught iOS Developer capable of responsibly managing and completin
   - 📍 MapKit
   - ❇️ WidgetKit
 
-Thank you for stopping by!
+### 🚀 Projects
+
+#### 📱 RecipeBook  
+A Swift app that fetches and displays recipes using TheMealDB API. Built with UIKit.  
+🔗 [Repo](https://github.com/niyazovdaulet/RecipeBook)
+
+#### 🧑‍💼 Portfolio  
+My personal iOS development portfolio showcasing completed projects.  
+🔗 [Repo](https://github.com/niyazovdaulet/portfolio)
+
+
 ### 🛠 Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+📫 Reach me at:  
+[![Instagram](https://img.shields.io/badge/Instagram-n1ghtcr0w-%23E4405F?logo=instagram&logoColor=white)](https://instagram.com/night.crow_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
 
 ---
 
